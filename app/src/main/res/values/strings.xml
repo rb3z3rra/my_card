@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Card</string>
+    <string name="my_name">Rodrigo Bezerra</string>
+    <string name="my_stack">Android Developer</string>
+    <string name="my_github">github.com/rb3z3rra</string>
+    <string name="avatar">Meu Avatar</string>
+    <string name="github">Meu Github</string>
+</resources>
